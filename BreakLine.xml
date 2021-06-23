@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Snippet>
+  <Code Language="CSharp">
+    <![CDATA[ Response.Write("<br>");]]>
+  </Code>
+  <Declarations>
+    <Literal>
+     
+      <ToolTip>Insert Break line </ToolTip>
+     
+    </Literal>
+  </Declarations>
+</Snippet>
